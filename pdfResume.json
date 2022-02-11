@@ -1,0 +1,38 @@
+[
+    {
+        "Name" : "MARIE CARMELA S RAMIREZ",
+        "Address" : "#195 Barangay Alacaak, Sta. Cruz Occidental Mindoro",
+        "Contact No." : "+63 921-5643-818",
+        "E-mail" : "belle.12@gmail.com",
+
+        "head1" : "Objectives",
+        "Job_Obj" : "To obtain suitable On-The-Job Training that will enable me to use my strong organizational skills, educational background and ability to work well with people.",
+
+        "head2" : "Educational Background:",
+        "Tertiary" : "University of Sto. Domingo",
+        "Taddress" : "Urdaneta Pangasinan", 
+        "Secondary" :"San Lucas National High School",
+        "Saddress" : "Quezon City",
+        "Primary" : "San Roque Elementary School",
+        "Paddress" : " San Juan, Bulacan",
+
+        "head3" : "Work Experience",
+        "position" : "Accountant Secretary",
+        "Company" : "Philippine National Bank",
+        "CompAdd" : "QVVH+4XR, Quezon",
+        "CompYr" : "2024-2026",
+
+        "head4" : "Skills",
+        "1" : "Easy to compute mathematics problem",
+        "2" : "Ability to learn quick",
+        "3" : "Flexible",
+    
+        "head5" : "Character References",
+        "boss" : "Mr. Luigi Tan",
+        "Bpos" : "CEO- PNB Quezon",
+        "Bcontact" : "+63 965-978-3478",
+        "closing" : "I hereby affix my signature to verify that the above information is true and correct to the best of my knowledge."
+    }
+]
+
+       
